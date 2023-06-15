@@ -17,7 +17,7 @@ require_once ("d://xampp/htdocs/sistema/head.php");
     </a>
 </div>
     <div class="titulo">
-        Inicia Sesion
+        Inicio de secion 
     </div>
     <form action="verificar.php" method ="POST" class=" col-3 login" autocomplete="off">
         <div class="mb-3">
@@ -34,9 +34,10 @@ require_once ("d://xampp/htdocs/sistema/head.php");
             </div>
             <input type="password" name="contraseña" class="form-control" id="password">
         </div>
+         <p><a href="#">¿Olvidaste tu contraseña?</a></p>
         
         <div class="d-grid gap-2" >
-            <button type="submit" class="btn btn-primary">Login</button>
+            <button type="submit" class="btn btn-primary">Acceder</button>
         </div>
     </form>
     <div class="col-3 login mt-3">
