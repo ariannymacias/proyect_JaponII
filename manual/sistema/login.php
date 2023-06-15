@@ -17,7 +17,7 @@ require_once ("d://xampp/htdocs/sistema/head.php");
     </a>
 </div>
     <div class="titulo">
-        Inicio de secion 
+        Iniciar secion  
     </div>
     <form action="verificar.php" method ="POST" class=" col-3 login" autocomplete="off">
         <div class="mb-3">
