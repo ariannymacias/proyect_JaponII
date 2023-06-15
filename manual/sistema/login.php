@@ -16,8 +16,7 @@ require_once ("d://xampp/htdocs/sistema/head.php");
     <i class="fa-solid fa-user  dog-icon"  ></i>
     </a>
 </div>
-    <div class="titulo">
-        Iniciar secion  
+    <div class="titulo">  Iniciar secion  
     </div>
     <form action="verificar.php" method ="POST" class=" col-3 login" autocomplete="off">
         <div class="mb-3">
